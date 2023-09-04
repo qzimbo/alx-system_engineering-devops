@@ -1,4 +1,0 @@
-touch 1-listit
-vi 1-listit
-#!/bin/bash 
-ls
